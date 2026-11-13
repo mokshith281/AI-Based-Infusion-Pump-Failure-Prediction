@@ -116,10 +116,4 @@ Calibrate/validate sensors; retrain the model on hardware-matched features;
 verify the full COM3→Python→dashboard/COM6 pipeline; mobile app with verified
 phone-number accounts and SMS alerts; multi-device dashboards; data export.
 
-## Team
 
-Chandru S (1VJ23AI012) · Harshal M (1VJ23AI020) · Hemanth H A (1VJ23AI022) ·
-Mokshith R (1VJ23AI031)
-
-Guide: Prof. Sangeetha C, Dept. of AI & ML, Vijaya Vittala Institute of
-Technology, Bengaluru (VTU, 2026–2027)
